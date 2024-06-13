@@ -1,0 +1,15 @@
+/home/valkyrja/ctf/src/writeup/transformation/decoders/bin/Debug/net7.0/decoders
+/home/valkyrja/ctf/src/writeup/transformation/decoders/bin/Debug/net7.0/decoders.deps.json
+/home/valkyrja/ctf/src/writeup/transformation/decoders/bin/Debug/net7.0/decoders.runtimeconfig.json
+/home/valkyrja/ctf/src/writeup/transformation/decoders/bin/Debug/net7.0/decoders.dll
+/home/valkyrja/ctf/src/writeup/transformation/decoders/bin/Debug/net7.0/decoders.pdb
+/home/valkyrja/ctf/src/writeup/transformation/decoders/obj/Debug/net7.0/decoders.csproj.AssemblyReference.cache
+/home/valkyrja/ctf/src/writeup/transformation/decoders/obj/Debug/net7.0/decoders.GeneratedMSBuildEditorConfig.editorconfig
+/home/valkyrja/ctf/src/writeup/transformation/decoders/obj/Debug/net7.0/decoders.AssemblyInfoInputs.cache
+/home/valkyrja/ctf/src/writeup/transformation/decoders/obj/Debug/net7.0/decoders.AssemblyInfo.cs
+/home/valkyrja/ctf/src/writeup/transformation/decoders/obj/Debug/net7.0/decoders.csproj.CoreCompileInputs.cache
+/home/valkyrja/ctf/src/writeup/transformation/decoders/obj/Debug/net7.0/decoders.dll
+/home/valkyrja/ctf/src/writeup/transformation/decoders/obj/Debug/net7.0/refint/decoders.dll
+/home/valkyrja/ctf/src/writeup/transformation/decoders/obj/Debug/net7.0/decoders.pdb
+/home/valkyrja/ctf/src/writeup/transformation/decoders/obj/Debug/net7.0/decoders.genruntimeconfig.cache
+/home/valkyrja/ctf/src/writeup/transformation/decoders/obj/Debug/net7.0/ref/decoders.dll
